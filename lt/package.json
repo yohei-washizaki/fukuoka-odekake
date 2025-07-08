@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "openai": "^5.8.2",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^24.0.10",
+    "@types/vue": "^1.0.31",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "vite": "^5.2.10"
+  }
+}
